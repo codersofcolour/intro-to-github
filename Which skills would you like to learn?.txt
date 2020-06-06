@@ -4,3 +4,4 @@ Wagtail CMS and Python -  Muhammad
 Wagtail CMS, SQL. and Machine Learning  - Abdulmajeed
 Java and R. I would also like to learn about Data Science and AI, especially in the fields of Computational Science. I'm still excited for this course! - Regina
 Python, SQL, Wagtail CMS and tableau- anything data science related really- Sabiha 
+Mostly Wagtail CMS and being more confident with using Python - Ange
